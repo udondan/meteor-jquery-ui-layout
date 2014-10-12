@@ -1,0 +1,3 @@
+[submodule "vendor/jquery-ui-layout"]
+	path = vendor/jquery-ui-layout
+	url = https://github.com/allpro/layout.git
